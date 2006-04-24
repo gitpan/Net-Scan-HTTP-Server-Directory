@@ -1,0 +1,7 @@
+Changes
+Copying
+Makefile.PL
+MANIFEST
+README
+t/Directory.t
+lib/Net/Scan/HTTP/Server/Directory.pm
