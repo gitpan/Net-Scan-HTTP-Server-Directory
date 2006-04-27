@@ -35,9 +35,6 @@ sub scan {
 		Timeout  => $timeout
 	);
 
-	$SIG{ALRM}=sub{exit(0);};
-	alarm $timeout;
-
 	my $results;
  
 	if ($connect){

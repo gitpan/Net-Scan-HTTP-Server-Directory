@@ -1,4 +1,7 @@
 Revision history for Perl extension Net-Scan-HTTP-Server-Directory.
 
-0.01  Fri Apr 21 10:47:23 2006
+0.02  Apr 27 15:37:37 2006
+	- delete alarm $timeout;
+
+0.01  Apr 21 10:47:23 2006
 	- first release 
